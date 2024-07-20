@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gicontast.github.io/sitemap
+Sitemap: https://gicontast.github.io/app/sitemap
+Sitemap: https://gicontast.github.io/assets/sitemap
+Sitemap: https://gicontast.github.io/css/sitemap
+Sitemap: https://gicontast.github.io/includes/sitemap
+Sitemap: https://gicontast.github.io/item/sitemap
+Sitemap: https://gicontast.github.io/src/sitemap
